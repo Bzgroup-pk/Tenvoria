@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+server/.env
+server/node_modules/
+server/agent-workspace/
+*.log
